@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Security 4 Portfolio - Hugo Zink & Daniel van Bavel"
+theme = "kiss"
